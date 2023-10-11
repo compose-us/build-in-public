@@ -14,4 +14,4 @@ Starting now, we will be sharing our progress with you every two weeks. This wil
 
 Follow us on Twitter and LinkedIn for all the struggles and challenges we’re facing while building. Maybe we’ll add a newsletter at some point, so you won’t miss anything. We’re happy to receive some GDPR conforming recommendations from you!
 
-Please use our GitHub discussion board to send us those comments or reach out to us through Twitter or LinkedIn.
+Please use [our GitHub discussion board](https://github.com/compose-us/build-in-public/discussions/1) to send us those comments or reach out to us through Twitter or LinkedIn.

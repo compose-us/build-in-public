@@ -18,14 +18,4 @@ Please use [our GitHub discussion board](https://github.com/compose-us/build-in-
 
 Cheers,
 
-<div style="display: flex;align-items: flex-end;gap: 1rem">
-<div style="display: grid;place-items: center;position: relative;border-radius: 50%;overflow: hidden;">
-    <a style="display: block;" href="https://www.linkedin.com/in/tamara-bogantseva/"><img style="display: block;" src="./tamara.jpg" width="100" height="100" alt="Tamara"></a>
-    <span style="position: absolute;bottom: 0;color: #fff;background: rgba(0,0,0,.7);padding: 0 50px;">Tamara</span>
-</div>
- and
-<div style="display: grid;place-items: center;position: relative;border-radius: 50%;overflow: hidden;">
-    <a style="display: block;" href="https://www.linkedin.com/in/joern-bernhardt/"><img style="display: block;" src="./joern.png" width="100" height="100" alt="Jörn"></a>
-    <span style="position: absolute;bottom: 0;color: #fff;background: rgba(0,0,0,.7);padding: 0 50px;">Jörn</span>
-</div>
-</div>
+[![Tamara](./tamara.png)](https://www.linkedin.com/in/tamara-bogantseva/) and [![Jörn](./joern.png)](https://www.linkedin.com/in/joern-bernhardt/)

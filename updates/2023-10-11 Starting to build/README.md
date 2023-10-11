@@ -1,6 +1,6 @@
 Hello y’all!
 
-We are compose.us, a small team of developers creating web applications and teach teams to build and maintain them as contractors. Essentially, we are building products for clients. In the future, we want to work on our own set of products and what you’re reading here is the kick-off of this process. While we still prioritize client work, we set aside some time every week to work on our own product.
+We are [compose.us](https://compose.us/), a small team of developers creating web applications and teach teams to build and maintain them as contractors. Essentially, we are building products for clients. In the future, we want to work on our own set of products and what you’re reading here is the kick-off of this process. While we still prioritize client work, we set aside some time every week to work on our own product.
 
 Since we’re mainly developers and like contributing to open source projects, it makes sense to us to build our products in public: Sharing knowledge about product development can attract business for our core agency. So even if our products end up as catastrophes regarding sales, this will not be a disastrous outcome for us as a company.
 
@@ -12,6 +12,55 @@ We have different ideas on how to solve this in a user centered way and we will 
 ## Follow our journey
 Starting now, we will be sharing our progress with you every two weeks. This will allow you to witness our project’s development, from the first idea to a maintained and sellable product. Join us as we build, offer your feedback, ask questions and be a part of the journey. 
 
-Follow us on Twitter and LinkedIn for all the struggles and challenges we’re facing while building. Maybe we’ll add a newsletter at some point, so you won’t miss anything. We’re happy to receive some GDPR conforming recommendations from you!
+Follow us on [Twitter](https://twitter.com/compose_us) and [LinkedIn](https://www.linkedin.com/company/compose-us/) for all the struggles and challenges we’re facing while building. Maybe we’ll add a newsletter at some point, so you won’t miss anything. We’re happy to receive some GDPR conforming recommendations from you!
 
-Please use [our GitHub discussion board](https://github.com/compose-us/build-in-public/discussions/1) to send us those comments or reach out to us through Twitter or LinkedIn.
+Please use [our GitHub discussion board](https://github.com/compose-us/build-in-public/discussions/1) to send us those comments or reach out to us through [Twitter](https://twitter.com/compose_us) or [LinkedIn](https://www.linkedin.com/company/compose-us/).
+
+Cheers,
+
+<div class="us">
+<div>
+    <a href="https://www.linkedin.com/in/tamara-bogantseva/"><img src="./tamara.jpg" width="100" height="100" alt="Tamara"></a>
+    <span>Tamara</span>
+</div>
+ and
+<div>
+    <a href="https://www.linkedin.com/in/joern-bernhardt/"><img src="./joern.png" width="100" height="100" alt="Jörn"></a>
+    <span>Jörn</span>
+</div>
+</div>
+
+<style>
+    .us {
+        display: flex;
+        align-items: flex-end;
+        gap: 1rem;
+    }
+    .us div {
+        display: grid;
+        place-items: center;
+        position: relative;
+        border-radius: 50%;
+        overflow: hidden;
+    }
+    .us a {
+        display: block;
+    }
+    .us img {
+        display: block;
+    }
+    .us span {
+        position: absolute;
+        bottom: 0;
+        color: #fff;
+        background: rgba(0,0,0,.7);
+        padding: 0 50px;
+    }
+    .us a img {
+        rotate: 0deg;
+        transition: rotate 5000ms;
+    }
+    .us a:hover img {
+        rotate: 360deg;
+    }
+</style>

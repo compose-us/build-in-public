@@ -18,49 +18,14 @@ Please use [our GitHub discussion board](https://github.com/compose-us/build-in-
 
 Cheers,
 
-<div class="us">
-<div>
-    <a href="https://www.linkedin.com/in/tamara-bogantseva/"><img src="./tamara.jpg" width="100" height="100" alt="Tamara"></a>
-    <span>Tamara</span>
+<div style="display: flex;align-items: flex-end;gap: 1rem">
+<div style="display: grid;place-items: center;position: relative;border-radius: 50%;overflow: hidden;">
+    <a style="display: block;" href="https://www.linkedin.com/in/tamara-bogantseva/"><img style="display: block;" src="./tamara.jpg" width="100" height="100" alt="Tamara"></a>
+    <span style="position: absolute;bottom: 0;color: #fff;background: rgba(0,0,0,.7);padding: 0 50px;">Tamara</span>
 </div>
  and
-<div>
-    <a href="https://www.linkedin.com/in/joern-bernhardt/"><img src="./joern.png" width="100" height="100" alt="Jörn"></a>
-    <span>Jörn</span>
+<div style="display: grid;place-items: center;position: relative;border-radius: 50%;overflow: hidden;">
+    <a style="display: block;" href="https://www.linkedin.com/in/joern-bernhardt/"><img style="display: block;" src="./joern.png" width="100" height="100" alt="Jörn"></a>
+    <span style="position: absolute;bottom: 0;color: #fff;background: rgba(0,0,0,.7);padding: 0 50px;">Jörn</span>
 </div>
 </div>
-
-<style>
-    .us {
-        display: flex;
-        align-items: flex-end;
-        gap: 1rem;
-    }
-    .us div {
-        display: grid;
-        place-items: center;
-        position: relative;
-        border-radius: 50%;
-        overflow: hidden;
-    }
-    .us a {
-        display: block;
-    }
-    .us img {
-        display: block;
-    }
-    .us span {
-        position: absolute;
-        bottom: 0;
-        color: #fff;
-        background: rgba(0,0,0,.7);
-        padding: 0 50px;
-    }
-    .us a img {
-        rotate: 0deg;
-        transition: rotate 5000ms;
-    }
-    .us a:hover img {
-        rotate: 360deg;
-    }
-</style>

@@ -1,3 +1,5 @@
+# Starting to build
+
 Hello y’all!
 
 We are [compose.us](https://compose.us/), a small team of developers creating web applications and teach teams to build and maintain them as contractors. Essentially, we are building products for clients. In the future, we want to work on our own set of products and what you’re reading here is the kick-off of this process. While we still prioritize client work, we set aside some time every week to work on our own product.

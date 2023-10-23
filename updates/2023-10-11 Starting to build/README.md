@@ -20,4 +20,4 @@ Please use [our GitHub discussion board](https://github.com/compose-us/build-in-
 
 Cheers,
 
-[![Tamara](./tamara.png)](https://www.linkedin.com/in/tamara-bogantseva/) and [![Jörn](./joern.png)](https://www.linkedin.com/in/joern-bernhardt/)
+[![Tamara](../tamara.png)](https://www.linkedin.com/in/tamara-bogantseva/) and [![Jörn](../joern.png)](https://www.linkedin.com/in/joern-bernhardt/)

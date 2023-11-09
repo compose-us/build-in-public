@@ -36,7 +36,7 @@ With this in place, it will be easier to iterate and make the next steps possibl
 2. Ensure posting the form on device A after receiving the file from device B works
 3. Simplify the initial connection process
 
-For people interested in the actual tech, check out [the Flottform repository]() to follow the state of our implementation. Here is [the tag that reflects the current state]() so you can see the code we are referring to as a permanent link, even if we decide to completely change architecture, tech stack, etc. in the future.
+For people interested in the actual tech, check out [the Flottform repository](https://github.com/compose-us/flottform) to follow the state of our implementation. Here is [the tag/commit that reflects the current state](https://github.com/compose-us/flottform/commit/8fd6e869ca1e8d11ee574a472eea18526f91c61f) so you can see the code we are referring to as a permanent link, even if we decide to completely change architecture, tech stack, etc. in the future.
 
 ## Next steps
 

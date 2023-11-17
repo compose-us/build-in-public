@@ -22,7 +22,9 @@ Basically, the exchange of offers and ICE candidates (the signaling)  should be 
 
 Ultimately, we created a script that identifies form file fields, adds an additional button to it, that allows the creation of the peer-to-peer connection. The file transfer into the form works!
 
-![Video of us opening a form, go to URL from a secondary device, send something from there, see it appearing on the form on the first device and see the submit button working](./screencast.mp4)
+Here is a video of us opening a form, go to URL from a secondary device, send something from there, see it appearing in the form on the first device and then have the submit button working (files got uploaded):
+
+https://github.com/compose-us/build-in-public/assets/1767865/8e2fa309-33d1-49f8-93f7-fd49609c1146
 
 ## Additional challenges along the way
 

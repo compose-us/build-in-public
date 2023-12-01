@@ -6,7 +6,7 @@ Last time, we showed our prototype to the world and described it technically. If
 
 Since our last update, we mainly updated the styling and the user experience by hiding the QR code after the connection was made and showing the progress of the file transmission on both devices.
 
-<video src="./Screencast-2023-11-30.mp4" controls title="Screencast of the current status"></video>
+![Screencast of the current status](https://github.com/compose-us/build-in-public/assets/1767865/3ba4ea64-b619-4eeb-bcd8-db6df8656042)
 
 Our next step is to continue styling it and check out how to easily integrate it into existing products.
 

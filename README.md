@@ -8,3 +8,4 @@ This is our repository where we share our progress with the products we are buil
 - [2023-11-09 Finding a Name and Building a Prototype](./updates/2023-11-09%20Finding%20a%20Name%20and%20Building%20a%20Prototype/README.md)
 - [2023-11-17 Hackathon Update](./updates/2023-11-17%20Hackathon%20Update/README.md)
 - [2023-12-01 Gathering Feedback](./updates/2023-12-01%20Gathering%20Feedback/README.md)
+- [2023-12-22 Working Towards Potential Customers](./updates/2023-12-22%20Working%20Towards%20Potential%20Customers/README.md)

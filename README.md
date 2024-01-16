@@ -9,3 +9,4 @@ This is our repository where we share our progress with the products we are buil
 - [2023-11-17 Hackathon Update](./updates/2023-11-17%20Hackathon%20Update/README.md)
 - [2023-12-01 Gathering Feedback](./updates/2023-12-01%20Gathering%20Feedback/README.md)
 - [2023-12-22 Working Towards Potential Customers](./updates/2023-12-22%20Working%20Towards%20Potential%20Customers/README.md)
+- [2024-01-16 Balancing Client Work and Internal Projects](./updates/2024-01-16%20Balancing%20Client%20Work%20and%20Internal%20Projects/README.md)

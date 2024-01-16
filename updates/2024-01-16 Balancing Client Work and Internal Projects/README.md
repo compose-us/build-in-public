@@ -10,10 +10,10 @@ When we made a promise to update our blog every two weeks, we were clear about o
 ## Getting Back on Track
 After a long pause, picking up where we left off with our resolutions can be daunting. The gap can make it seem like starting from scratch, but we see it as an opportunity to revisit our goals and gather some new ideas. As we wrote in our [previous blog post](https://github.com/compose-us/build-in-public/blob/main/updates/2023-12-22%20Working%20Towards%20Potential%20Customers/README.md), we are looking for test users for our product.
 
-The most important task for us is to find them, build trust and get them to work with us. LinkedIn and other social media channels are helpful tools to achieve this. We will continue searching and approaching potential test users. Leveraging our existing contacts allows us to accelerate this.
+The most important task for us is to find them, build trust and get them to work with us. LinkedIn and other social media channels are helpful tools to achieve this. We will continue searching and approaching potential test users. Getting to know them through our existing contacts helps us to build a trusted relationship which allows direct feedback.
 
 ## Who are potential customers?
-Thanks to the feedback we got, we are confident that we will find enough users to test drive our tool. We are sure to get a polished product out of the door relatively quickly. But will we find enough actual customers for it? The only way to tell is to get numbers and feedback from the market.
+Thanks to the feedback we have already received, we are confident that we will find enough users to test drive our tool. We are sure to get a polished product out of the door relatively quickly. But will we find enough actual customers for it? The only way to tell is to get actual numbers and responses from the market.
 
 One way to achieve this is to build a landing page and track how many leads we can find for what we’re offering. Thankfully, we may be able to reuse content we’ve already created due to our updates here. Showing the screencast, pointing out use-cases and providing a way to contact us directly should be the main parts of the page. This will also make our offering easy to share, and, along with our ongoing outreach, will help us check whether there is a market for our tool.
 

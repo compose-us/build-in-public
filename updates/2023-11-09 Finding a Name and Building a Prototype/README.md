@@ -1,4 +1,6 @@
-# Finding a Name and Building a Prototype
+🤫 Psst! Did you know there is [a new homepage for the Flottform #Build-In-Public effort](https://flottform.io)? Click the headline below to jump to the post on the new site 🚚✨
+
+# [Finding a Name and Building a Prototype](https://flottform.io/updates/2023-11-09-finding-a-name-and-building-a-prototype)
 
 Hello y’all!
 

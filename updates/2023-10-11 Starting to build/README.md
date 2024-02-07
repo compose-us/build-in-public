@@ -1,4 +1,6 @@
-# Starting to build
+🤫 Psst! Did you know there is [a new homepage for the Flottform #Build-In-Public effort](https://flottform.io)? Click the headline below to jump to the post on the new site 🚚✨
+
+# [Starting to build](https://flottform.io/updates/2023-10-11-starting-to-build)
 
 Hello y’all!
 

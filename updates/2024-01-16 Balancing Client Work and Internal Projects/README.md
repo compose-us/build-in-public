@@ -1,4 +1,6 @@
-# Balancing Client Work and Internal Projects
+🤫 Psst! Did you know there is [a new homepage for the Flottform #Build-In-Public effort](https://flottform.io)? Click the headline below to jump to the post on the new site 🚚✨
+
+# [Balancing Client Work and Internal Projects](https://flottform.io/updates/2024-01-16-balancing-client-work-and-internal-projects)
 
 Hello y’all! 👋
 

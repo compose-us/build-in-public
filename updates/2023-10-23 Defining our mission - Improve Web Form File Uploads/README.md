@@ -1,4 +1,6 @@
-# Defining our mission: Improve Web Form File Uploads
+🤫 Psst! Did you know there is [a new homepage for the Flottform #Build-In-Public effort](https://flottform.io)? Click the headline below to jump to the post on the new site 🚚✨
+
+# [Defining our mission: Improve Web Form File Uploads](https://flottform.io/updates/2023-10-23-defining-our-mission-improve-web-form-file-ploads)
 
 Hello y’all!
 

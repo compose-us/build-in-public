@@ -1,4 +1,6 @@
-# Hackathon Update
+🤫 Psst! Did you know there is [a new homepage for the Flottform #Build-In-Public effort](https://flottform.io)? Click the headline below to jump to the post on the new site 🚚✨
+
+# [Hackathon Update](https://flottform.io/updates/2023-11-17-hackathon-update)
 
 Hello y'all!
 

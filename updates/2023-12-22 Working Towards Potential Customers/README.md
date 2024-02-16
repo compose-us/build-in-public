@@ -1,4 +1,6 @@
-# Working Towards Potential Customers
+🤫 Psst! Did you know there is [a new homepage for the Flottform #Build-In-Public effort](https://flottform.io)? Click the headline below to jump to the post on the new site 🚚✨
+
+# [Working Towards Potential Customers](https://flottform.io/updates/2023-12-22-working-towards-potential-customers)
 
 Hello y’all!
 

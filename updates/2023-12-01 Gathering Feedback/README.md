@@ -1,4 +1,6 @@
-# Gathering Feedback
+🤫 Psst! Did you know there is [a new homepage for the Flottform #Build-In-Public effort](https://flottform.io)? Click the headline below to jump to the post on the new site 🚚✨
+
+# [Gathering Feedback](https://flottform.io/updates/2023-12-01-gathering-feedback)
 
 Hello y’all! 👋
 

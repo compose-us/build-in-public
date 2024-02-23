@@ -14,3 +14,4 @@ We've made a new website for [Flottform](https://flottform.io). Now, you can fin
 - [2023-12-22 Working Towards Potential Customers](https://flottform.io/updates/2023-12-22-working-towards-potential-customers)
 - [2024-01-16 Balancing Client Work and Internal Projects](https://flottform.io/updates/2024-01-16-balancing-client-work-and-internal-projects)
 - [2024-02-06 Landing Page Landed](https://flottform.io/updates/2024-02-06-landing-page-landed)
+- [2024-02-22 Finding our market](https://flottform.io/updates/2024-02-22-finding-our-market)
